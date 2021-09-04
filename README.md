@@ -1,5 +1,5 @@
 # todolist-vue.js
-This is a simple todolist written by vue.js.
+This is a simple todolist written with vue.js.
 
 [Demo](https://www.darklyh.com/todolist/)
 
